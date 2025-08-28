@@ -1,0 +1,73 @@
+/* Dark theme overrides for GitBook website
+   Place in docs/styles/website.css and referenced from docs/book.json
+*/
+:root {
+  --bg: #0b0f12;
+  --surface: #0f1518;
+  --card: #0f171a;
+  --text: #e6eef6;
+  --muted: #98a7b3;
+  --link: #7be0a6;
+}
+
+html,
+body,
+.book,
+.book-body {
+  background-color: var(--bg) !important;
+  color: var(--text) !important;
+}
+
+.book-summary,
+.summary,
+.nav,
+.sidebar {
+  background-color: #071019 !important;
+  color: var(--muted) !important;
+}
+
+a {
+  color: var(--link) !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--text) !important;
+}
+
+pre,
+code,
+.highlight,
+.codehilite {
+  background: #071014 !important;
+  color: #dff7ea !important;
+}
+
+.book .chapter {
+  background: transparent !important;
+}
+
+/* Images: ensure transparent background looks fine */
+img {
+  background: transparent;
+}
+
+/* Tables */
+table,
+th,
+td {
+  border-color: rgba(255, 255, 255, 0.06) !important;
+}
+
+/* Minor spacing tweaks */
+.book-body {
+  padding: 24px !important;
+}
+
+/* If you need to tweak sizes for token images, add rules like:
+img[src*="/tokens/"] { max-width: 360px; height: auto; }
+*/
