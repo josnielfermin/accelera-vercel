@@ -1,4 +1,6 @@
-# Brand Book
+# Summary
+
+### Brand Book
 
 Aquí encontrarás los recursos oficiales de marca del proyecto. Todos los recursos están organizados por secciones y listos para visualizarse en GitBook.
 
@@ -64,6 +66,22 @@ light-favicon.png\
 
 normal-favicon.png\
 ![](./assets/brand-book/favicons/normal-favicon.png)
+
+---
+
+## vertical-lock-up
+
+dark-background.png\
+![](./assets/brand-book/vertical-lock-up/dark-background.png)
+
+light-background.png\
+![](./assets/brand-book/vertical-lock-up/light-background.png)
+
+negative.png\
+![](./assets/brand-book/vertical-lock-up/negative.png)
+
+positive.png\
+![](./assets/brand-book/vertical-lock-up/positive.png)
 
 ---
 
@@ -202,19 +220,3 @@ regular.svg\
 
 semibold.svg\
 ![](./assets/brand-book/typography-selection/open-sans/semibold.svg)
-
----
-
-## vertical-lock-up
-
-dark-background.png\
-![](./assets/brand-book/vertical-lock-up/dark-background.png)
-
-light-background.png\
-![](./assets/brand-book/vertical-lock-up/light-background.png)
-
-negative.png\
-![](./assets/brand-book/vertical-lock-up/negative.png)
-
-positive.png\
-![](./assets/brand-book/vertical-lock-up/positive.png)
