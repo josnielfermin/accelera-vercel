@@ -10,6 +10,8 @@ dark-icon.png\
 - [Icon and Wordmark](icon-and-wordmark.md)
 - [Color Palette](color-palette.md)
 - [Typography Selection](typography-selection.md)
+  - [Instruments Sans](instruments-sans.md)
+  - [Open Sans](open-sans.md)
 - [Favicon and App Icon](favicon-and-app-icon.md)
 - [App Icons](app-icons.md)
 - [Favicons](favicons.md)
