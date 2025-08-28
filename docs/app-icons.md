@@ -1,7 +1,7 @@
 # App Icons
 
-dark-icon.png\
+**Dark Icon**
 ![](./assets/brand-book/app-icons/dark-icon.png)
 
-light-icon.png\
+**Light Icon**
 ![](./assets/brand-book/app-icons/light-icon.png)

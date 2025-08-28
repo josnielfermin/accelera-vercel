@@ -1,4 +1,4 @@
 # Social Media
 
-social-profile.png\
+**Social Profile**
 ![](./assets/brand-book/social-media/social-profile.png)

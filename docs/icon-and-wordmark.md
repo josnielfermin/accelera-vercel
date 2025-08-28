@@ -1,22 +1,22 @@
 # Icon and Wordmark
 
-color.png\
+**Color**
 ![](./assets/brand-book/icon-and-wordmark/color.png)
 
-negative.png\
+**Negative**
 ![](./assets/brand-book/icon-and-wordmark/negative.png)
 
-positive.png\
+**Positive**
 ![](./assets/brand-book/icon-and-wordmark/positive.png)
 
-text-color.png\
+**Text Color**
 ![](./assets/brand-book/icon-and-wordmark/text-color.png)
 
-text-negative.png\
+**Text Negative**
 ![](./assets/brand-book/icon-and-wordmark/text-negative.png)
 
-text-positive.png\
+**Text Positive**
 ![](./assets/brand-book/icon-and-wordmark/text-positive.png)
 
-variation.png\
+**Variation**
 ![](./assets/brand-book/icon-and-wordmark/variation.png)

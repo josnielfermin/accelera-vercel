@@ -9,5 +9,5 @@ primary.png\
 secondary.png\
 ![](./assets/brand-book/color-palette/secondary.png)
 
-tertiary.png\
+**Base**
 ![](./assets/brand-book/color-palette/tertiary.png)

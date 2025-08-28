@@ -1,7 +1,7 @@
 # Favicons
 
-light-favicon.png\
+**Light Favicon**
 ![](./assets/brand-book/favicons/light-favicon.png)
 
-normal-favicon.png\
+**Normal Favicon**
 ![](./assets/brand-book/favicons/normal-favicon.png)

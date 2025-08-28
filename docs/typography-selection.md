@@ -2,28 +2,28 @@
 
 ## Instruments Sans
 
-bold.svg\
+**Bold**
 ![](./assets/brand-book/typography-selection/instruments-sans/bold.svg)
 
-medium.svg\
+**Medium**
 ![](./assets/brand-book/typography-selection/instruments-sans/medium.svg)
 
-regular.svg\
+**Regular**
 ![](./assets/brand-book/typography-selection/instruments-sans/regular.svg)
 
-semibold.svg\
+**Semibold**
 ![](./assets/brand-book/typography-selection/instruments-sans/semibold.svg)
 
 ## Open Sans
 
-bold.svg\
+**Bold**
 ![](./assets/brand-book/typography-selection/open-sans/bold.svg)
 
-light.svg\
+**Light**
 ![](./assets/brand-book/typography-selection/open-sans/light.svg)
 
-regular.svg\
+**Regular**
 ![](./assets/brand-book/typography-selection/open-sans/regular.svg)
 
-semibold.svg\
+**Semibold**
 ![](./assets/brand-book/typography-selection/open-sans/semibold.svg)

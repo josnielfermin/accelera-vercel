@@ -1,4 +1,4 @@
 # Safe Space
 
-Safe Space.svg\
+**Safe Space**
 ![](./assets/brand-book/safe-space/Safe%20Space.svg)
