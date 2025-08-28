@@ -1,13 +1,17 @@
 # Color Palette
 
-base.png\
+**Base**
+
 ![](./assets/brand-book/color-palette/base.png)
 
-primary.png\
+**Primary**
+
 ![](./assets/brand-book/color-palette/primary.png)
 
-secondary.png\
+**Secondary**
+
 ![](./assets/brand-book/color-palette/secondary.png)
 
-**Base**
+**Tertiary**
+
 ![](./assets/brand-book/color-palette/tertiary.png)
