@@ -2,9 +2,7 @@
 
 **Logo horizontal**
 
-<div style="text-align: left;">
-  ![](./assets/brand-assets/main-logo/horizontal-dark-bg.svg)
-</div>
+![](./assets/brand-assets/main-logo/horizontal-dark-bg.svg)
 
 <ul style="list-style: disc inside; padding-left: 0; margin: 12px 0;">
   <li style="margin-bottom: 6px;">
@@ -15,9 +13,7 @@
   </li>
 </ul>
 
-<div style="text-align: left;">
-  ![](./assets/brand-assets/main-logo/horizontal-light-bg.svg)
-</div>
+![](./assets/brand-assets/main-logo/horizontal-light-bg.svg)
 
 <ul style="list-style: disc inside; padding-left: 0; margin: 12px 0;">
   <li style="margin-bottom: 6px;">
@@ -54,3 +50,10 @@
     </td>
   </tr>
 </table>
+
+# Main Logo
+
+| Dark Background                                                                                                                                                              | Light Background                                                                                                                                                                 |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](./assets/brand-assets/main-logo/horizontal-dark-bg.svg)                                                                                                                  | ![](./assets/brand-assets/main-logo/horizontal-light-bg.svg)                                                                                                                     |
+| - [SVG](./assets/brand-assets/main-logo/horizontal-dark-assets/horizontal-dark.svg) <br> - [PNG](./assets/brand-assets/main-logo/horizontal-dark-assets/horizontal-dark.png) | - [SVG](./assets/brand-assets/main-logo/horizontal-light-assets/horizontal-light.svg) <br> - [PNG](./assets/brand-assets/main-logo/horizontal-light-assets/horizontal-light.png) |
