@@ -1,5 +1,6 @@
 <svg width="698" height="732" viewBox="0 0 698 732" fill="none" xmlns="http://www.w3.org/2000/svg">
-<foreignObject x="-50" y="-50" width="798" height="832"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(25px);clip-path:url(#bgblur_0_441_117_clip_path);height:100%;width:100%"></div></foreignObject><rect data-figma-bg-blur-radius="50" width="698" height="732" rx="30" fill="#151515" fill-opacity="0.2"/>
+<foreignObject x="-50" y="-50" width="798" height="832"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(25px);clip-path:url(#bgblur_0_441_117_clip_path);height:100%;width:100%"></div></foreignObject><rect data-figma-bg-blur-radius="50" width="698" height="732" rx="30" fill="#151515"/>
+<rect width="575.861" height="354" transform="translate(61 169)" fill="#151515"/>
 <path d="M270.623 314.866L288.162 297.74V224.167L270.623 241.636V314.866Z" fill="white"/>
 <path d="M315.854 270.7L299.238 286.924V213.133L315.854 196.583V270.7Z" fill="white"/>
 <path d="M326.93 259.884V185.55L343.546 169V243.66L326.93 259.884Z" fill="white"/>
