@@ -2,7 +2,7 @@
 
 **Logo horizontal**
 
-<table bgcolor="transparent" border="none" width="100%">
+<table bgcolor="transparent" border="0" width="100%">
   <tr width="100%">
     <td align="start" bgcolor="transparent" width="50%" >
       <img src="./assets/brand-assets/main-logo/horizontal-dark-bg.svg" alt="Logo dark" style="max-width: 220px; width: 100%;"><br>
