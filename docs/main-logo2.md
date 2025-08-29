@@ -53,5 +53,7 @@
 
 # Main Logo
 
-| ![](./assets/brand-assets/main-logo/horizontal-dark-bg.svg) | ![](./assets/brand-assets/main-logo/horizontal-light-bg.svg) |
+|                                                                                                                                                                              |                                                                                                                                                                                  |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](./assets/brand-assets/main-logo/horizontal-dark-bg.svg)                                                                                                                  | ![](./assets/brand-assets/main-logo/horizontal-light-bg.svg)                                                                                                                     |
 | - [SVG](./assets/brand-assets/main-logo/horizontal-dark-assets/horizontal-dark.svg) <br> - [PNG](./assets/brand-assets/main-logo/horizontal-dark-assets/horizontal-dark.png) | - [SVG](./assets/brand-assets/main-logo/horizontal-light-assets/horizontal-light.svg) <br> - [PNG](./assets/brand-assets/main-logo/horizontal-light-assets/horizontal-light.png) |
