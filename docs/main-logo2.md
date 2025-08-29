@@ -1,6 +1,6 @@
 # Main Logo
 
-**Logo horizontal**
+**Logo horizontalll**
 
 <div style="display: flex; gap: 16px; align-items: center; width: 100%;">
   <div style="position: relative; width: 50%;">
