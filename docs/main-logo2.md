@@ -3,7 +3,7 @@
 **Logo horizontal**
 
 <table bgcolor="transparent" border="0" width="100%">
-  <tr width="100%">
+  <tr width="100%" border="0">
     <td align="start" bgcolor="transparent" width="50%" border="0">
       <img src="./assets/brand-assets/main-logo/horizontal-dark-bg.svg" alt="Logo dark" style="max-width: 220px; width: 100%;"><br>
       <ul style="list-style: disc inside; padding-left: 0; margin: 12px 0;">
