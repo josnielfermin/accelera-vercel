@@ -2,6 +2,13 @@
 
 **Logo horizontal**
 
+![](./assets/brand-assets/main-logo/horizontal-dark-bg.svg)
+![](./assets/brand-assets/main-logo/horizontal-light-bg.svg)
+
+# Main Logo
+
+**Logo horizontal**
+
 <div style="display: flex; gap: 16px; align-items: center; width: 1000px; border: 1px solid red;">
   <div style="position: relative; width: 400px;">
     <img src="./assets/brand-assets/main-logo/horizontal-dark-bg.svg" alt="Logo dark" style="width: 400px; border: 1px solid red;">
