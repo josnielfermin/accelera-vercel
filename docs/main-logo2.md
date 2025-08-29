@@ -2,7 +2,9 @@
 
 **Logo horizontal**
 
-![](./assets/brand-assets/main-logo/horizontal-dark-bg.svg)
+<div style="text-align: left;">
+  ![](./assets/brand-assets/main-logo/horizontal-dark-bg.svg)
+</div>
 
 <ul style="list-style: disc inside; padding-left: 0; margin: 12px 0;">
   <li style="margin-bottom: 6px;">
@@ -13,7 +15,9 @@
   </li>
 </ul>
 
-![](./assets/brand-assets/main-logo/horizontal-light-bg.svg)
+<div style="text-align: left;">
+  ![](./assets/brand-assets/main-logo/horizontal-light-bg.svg)
+</div>
 
 <ul style="list-style: disc inside; padding-left: 0; margin: 12px 0;">
   <li style="margin-bottom: 6px;">
