@@ -3,6 +3,7 @@ dark-icon.png\
 # Summary
 
 - [Brand Book](cover.md)
+- [Description](description.md)
 - [Main Logo](main-logo.md)
 - [Safe Space](safe-space.md)
 - [Vertical Lock Up](vertical-lock-up.md)
